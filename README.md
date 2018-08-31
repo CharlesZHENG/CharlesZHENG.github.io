@@ -1,11 +1,9 @@
 <style>table th:nth-of-type(1) { width: 280px;}th:nth-of-type(2){ width: 280px;</style>
 
-# 整理一些资源
-
 Microsoft 文档：
 
 A | B
----|---
+:---|:---
 [.Net资源下载](https://www.microsoft.com/net/) | [ASP.NET Core 文档](https://docs.microsoft.com/zh-cn/aspnet/core/index?view=aspnetcore-2.1)
 [.Net 开发指南](https://docs.microsoft.com/en-us/dotnet/welcome) | 
 
@@ -14,7 +12,7 @@ A | B
 
 
 A | B
----|---
+:---|:---
 [ASP.NET Core 社区翻译](https://github.com/dotnetcore/aspnetcore-doc-cn) | [ASP.NET Core 简明教程](https://windsting.github.io/little-aspnetcore-book/book/chapters/your-first-application/)
 [identityserver4中文文档](http://identityserver4-zh-cn.readthedocs.io/zh_CN/release/) |[计算机网络文档](https://hit-alibaba.github.io/interview/basic/network/HTTP.html)
 [CLR相关文档](https://github.com/dotnet/coreclr/tree/master/Documentation)|[Runtime之书](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
@@ -27,6 +25,7 @@ A | B
 [dotnet聊天室](https://gitter.im/dotnet/community)| [工具集、博客](http://www.ikende.com/)
 [Nuget包(可能会有pre版)](https://dotnet.myget.org/gallery) | [Azure功能](https://www.azure.cn/en-us/support/service-dashboard/)
 [ServiceFabric.Mocks](https://github.com/loekd/ServiceFabric.Mocks)|
+
 ----
 源码：
 

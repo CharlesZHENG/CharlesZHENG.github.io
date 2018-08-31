@@ -130,7 +130,7 @@ Microsoft 文档：
 
 ![img](http://www.postgres.cn/images/news/2018/20180729_2150_book.png)
 
-《PostgreSQL实战》(https://search.jd.com/Search?keyword=PostgreSQL%E5%AE%9E%E6%88%98&enc=utf-8&wq=PostgreSQL%E5%AE%9E%E6%88%98&pvid=903bbeba655a4b4ea472a7aaf2871b79)
+[《PostgreSQL实战》](https://search.jd.com/Search?keyword=PostgreSQL%E5%AE%9E%E6%88%98&enc=utf-8&wq=PostgreSQL%E5%AE%9E%E6%88%98&pvid=903bbeba655a4b4ea472a7aaf2871b79)
 
 ----
 Sample:

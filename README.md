@@ -21,7 +21,7 @@ A | B
 工具：
 
 A | B
----|---
+:---|:---
 [dotnet聊天室](https://gitter.im/dotnet/community)| [工具集、博客](http://www.ikende.com/)
 [Nuget包(可能会有pre版)](https://dotnet.myget.org/gallery) | [Azure功能](https://www.azure.cn/en-us/support/service-dashboard/)
 [ServiceFabric.Mocks](https://github.com/loekd/ServiceFabric.Mocks)|
@@ -30,7 +30,7 @@ A | B
 源码：
 
 A | B
----|---
+:---|:---
 [ASP.NET源码](https://github.com/aspnet) | [.NET Foundation](https://github.com/dotnet)
 [.Net Core](https://github.com/dotnet/core) | [identityserver](https://github.com/IdentityServer)
 [orleans](https://github.com/dotnet/orleans/) |[service-fabric](https://github.com/Microsoft/service-fabric)
@@ -40,7 +40,7 @@ A | B
 
 
 A | B
----|---
+:---|:---
 [ASP.NET Blog](https://blogs.msdn.microsoft.com/webdev/) | [.NET Blog](https://blogs.msdn.microsoft.com/dotnet/)
 [C# Blog](https://blogs.msdn.microsoft.com/dotnet/tag/c/)|[developerblog](https://www.microsoft.com/developerblog/)
 [C# corner](https://www.c-sharpcorner.com/)|[infoq](http://www.infoq.com/cn/)
@@ -59,14 +59,14 @@ A | B
 视频、直播：
 
 A | B
----|---
+:---|:---
 [csharpfritz](https://www.twitch.tv/csharpfritz)| 
 
 ----
 主题：
 
 A | B
----|---
+:---|:---
 [Hunter](https://www.cnblogs.com/zd1994/category/1135637.html) | [.NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/)
 [CoreCLR](http://mattwarren.org/2017/03/23/Hitchhikers-Guide-to-the-CoreCLR-Source-Code/) | 
 
@@ -74,9 +74,13 @@ A | B
 
 书籍：
 
-![img](http://www.postgres.cn/images/news/2018/20180729_2150_book.png)
+![img](https://img14.360buyimg.com/n7/jfs/t21547/54/2437827004/94488/d9e5891f/5b56b9f2Nedac8f40.jpg)
 
 [《PostgreSQL实战》](https://search.jd.com/Search?keyword=PostgreSQL%E5%AE%9E%E6%88%98&enc=utf-8&wq=PostgreSQL%E5%AE%9E%E6%88%98&pvid=903bbeba655a4b4ea472a7aaf2871b79)
+
+![img](https://img11.360buyimg.com/n1/s200x200_jfs/t25897/279/995910719/71977/dc863fb3/5b862e9bN54e9a675.jpg)
+
+[《.NET性能优化》](https://search.jd.com/Search?keyword=.NET%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96&enc=utf-8&wq=.NET%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96&pvid=8902c66f59354aa18d55073a4c67b3d1)
 
 ----
 Sample:
@@ -87,13 +91,13 @@ ServiceFabric + Orleans + Asp.net Core :
 
 
 A | B
----|---
+:---|:---
 [142 samples for ASP.NET Core 2.1](https://github.com/dodyg/practical-aspnetcore) | 
 
 ##### ServiceFabric
 
 A | B
----|---
+:---|:---
 [microservices-docker-servicefabric](https://github.com/vany0114/microservices-dotnetcore-docker-servicefabric) | [ServiceFabricSample](https://github.com/JacobAtchley/ServiceFabricSample/tree/forks/jacob)
 [ServiceFabricSamples](https://github.com/massimobonanni/ServiceFabricSamples)|[ServiceFabric Sample](https://azure.microsoft.com/en-us/resources/samples/?service=service-fabric&sort=0)
 [ServiceFabricContrib](https://github.com/heavenwing/ServiceFabricContrib)|[ServiceFabricSample](https://github.com/devbrsa/ServiceFabricSample)
@@ -104,7 +108,7 @@ A | B
 ##### Orleans
 
 A | B
----|---
+:---|:---
 [Orleans Design Patterns](https://github.com/OrleansContrib/DesignPatterns) | [Orleankka](http://orleanscontrib.github.io/Orleankka/)
 [Orleans.Consensus Raft](https://github.com/OrleansContrib/Orleans.Consensus) |[OrleansFabricSilo](https://github.com/OrleansContrib/OrleansFabricSilo)
 [orleans-samples](https://github.com/OrleansContrib/orleans-samples)|

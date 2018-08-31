@@ -1,5 +1,5 @@
 <style>table th:nth-of-type(1) { width: 280px;}th:nth-of-type(2){ width: 280px;</style>
-
+# .NET 网址导航
 Microsoft 文档：
 
 A | B
@@ -52,15 +52,15 @@ A | B
 [PostgreSQL中文社区](http://www.postgres.cn/home)|[elvanydev](http://elvanydev.com/index.html)
 [feedspot](https://blog.feedspot.com)|[mattwarren](http://mattwarren.org/)
 [csharpstar](https://www.csharpstar.com/)|[Christian Nagel](https://csharp.christiannagel.com/)
-[Bill Blogs](http://thebillwagner.com/Blog)|[dotNET跨平台-张善友](https://mp.weixin.qq.com/profile?src=3&timestamp=1535641232&ver=1&signature=7Gh26kWPXsXpeDs0O4OdHfvJlknAaS*oRbMsBT0f9sEyCIflXmQHbPsr7wbf8Nle64dayhQAwzeYLYD3nTy*5A==)
-[infoq公众号](https://mp.weixin.qq.com/profile?src=3&timestamp=1535641691&ver=1&signature=33uh3zsZYPHNwW6fGu*vFp3FE0rOMtA82o8ZUHSy4GziIlbSPpFE1hf1JfgHZvUVbpAlK*V8-tK6bF7X8*9FJg==)|[大内老A-蒋金楠](https://mp.weixin.qq.com/profile?src=3&timestamp=1535640811&ver=1&signature=hzBvtxxJfmnQd9UrimtUkfzNFd6O4sK1typerNpePZEJNltx9RI3nOdOIH9*65wylLdxBtfVrLEhxfqvQFS12w==)
+[Bill Blogs](http://thebillwagner.com/Blog)|[dotNET跨平台-张善友](http://weixin.sogou.com/weixin?type=1&s_from=input&query=opendotnet+&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=3144&sst0=1535728079618&lkt=1%2C1535728077322%2C1535728077322)
+[infoq公众号](http://weixin.sogou.com/weixin?type=1&s_from=input&query=infoqchina&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=2313&sst0=1535728313043&lkt=1%2C1535728312010%2C1535728312010)|[大内老A-蒋金楠](http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E5%A4%A7%E5%86%85%E8%80%81A&ie=utf8&_sug_=n&_sug_type_=)
 
 ----
 视频、直播：
 
 A | B
 :---|:---
-[csharpfritz](https://www.twitch.tv/csharpfritz)| 
+[csharpfritz](https://www.twitch.tv/csharpfritz)|[RabbitMQ](http://www.bilibili.com/video/av18997807) 
 
 ----
 主题：

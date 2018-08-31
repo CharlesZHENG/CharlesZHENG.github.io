@@ -70,6 +70,13 @@ A | B
 [Hunter](https://www.cnblogs.com/zd1994/category/1135637.html) | [.NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/)
 [CoreCLR](http://mattwarren.org/2017/03/23/Hitchhikers-Guide-to-the-CoreCLR-Source-Code/) | 
 
+量化交易：
+
+A | B
+:---|:---
+[quantstart](https://www.quantstart.com/) | [TA-Lib](https://github.com/CharlesZHENG/TALibraryInCSharp/)
+[strategies](https://github.com/fmzquant/strategies)|
+
 ----
 
 书籍：

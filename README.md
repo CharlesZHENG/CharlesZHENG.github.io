@@ -81,7 +81,7 @@ A | B
 
 其他：
 
-[商学](https://charleszheng.github.io/BusinessSchool.md)
+[商学](https://charleszheng.github.io/BusinessSchool)
 
 ----
 

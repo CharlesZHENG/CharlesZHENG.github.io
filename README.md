@@ -13,7 +13,7 @@ A | B
 
 A | B
 :---|:---
-[ASP.NET Core 社区翻译](https://github.com/dotnetcore/aspnetcore-doc-cn) | [ASP.NET Core 简明教程](https://windsting.github.io/little-aspnetcore-book/book/chapters/your-first-application/)
+[ASP.NET Core 社区翻译](https://github.com/aspnet/Docs.zh-cn) | [ASP.NET Core 简明教程](https://windsting.github.io/little-aspnetcore-book/book/chapters/your-first-application/)
 [identityserver4中文文档](http://identityserver4-zh-cn.readthedocs.io/zh_CN/release/) |[计算机网络文档](https://hit-alibaba.github.io/interview/basic/network/HTTP.html)
 [CLR相关文档](https://github.com/dotnet/coreclr/tree/master/Documentation)|[Runtime之书](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
 

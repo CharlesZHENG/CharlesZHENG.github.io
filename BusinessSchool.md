@@ -4,7 +4,7 @@
 
 A | B
 :---|:---
-[栖息谷](bbs.21manager.com) |
+[栖息谷](http://bbs.21manager.com)|
 
 ----
 

@@ -16,6 +16,7 @@ A | B
 [ASP.NET Core 社区翻译](https://github.com/aspnet/Docs.zh-cn) | [ASP.NET Core 简明教程](https://windsting.github.io/little-aspnetcore-book/book/chapters/your-first-application/)
 [identityserver4中文文档](http://identityserver4-zh-cn.readthedocs.io/zh_CN/release/) |[计算机网络文档](https://hit-alibaba.github.io/interview/basic/network/HTTP.html)
 [CLR相关文档](https://github.com/dotnet/coreclr/tree/master/Documentation)|[Runtime之书](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
+[Markdown](https://github.com/CharlesZHENG/Markdown)|
 
 ----
 工具：
@@ -54,8 +55,8 @@ A | B
 [csharpstar](https://www.csharpstar.com/)|[Christian Nagel](https://csharp.christiannagel.com/)
 [Bill Blogs](http://thebillwagner.com/Blog)|[dotNET跨平台-张善友](http://weixin.sogou.com/weixin?type=1&s_from=input&query=opendotnet+&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=3144&sst0=1535728079618&lkt=1%2C1535728077322%2C1535728077322)
 [infoq公众号](http://weixin.sogou.com/weixin?type=1&s_from=input&query=infoqchina&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=2313&sst0=1535728313043&lkt=1%2C1535728312010%2C1535728312010)|[大内老A-蒋金楠](http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E5%A4%A7%E5%86%85%E8%80%81A&ie=utf8&_sug_=n&_sug_type_=)
-[MSDN](https://msdn.microsoft.com/zh-cn/magazine/ee310108.aspx)|
-
+[MSDN](https://msdn.microsoft.com/zh-cn/magazine/ee310108.aspx)|[桂素伟](https://www.cnblogs.com/axzxs2001/)
+[Hunter-Orleans](https://www.cnblogs.com/zd1994/category/1135637.html)
 ----
 视频、直播：
 
@@ -68,21 +69,32 @@ A | B
 
 A | B
 :---|:---
-[Hunter](https://www.cnblogs.com/zd1994/category/1135637.html) | [.NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/)
-[CoreCLR](http://mattwarren.org/2017/03/23/Hitchhikers-Guide-to-the-CoreCLR-Source-Code/) | 
+[.NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/)|[CoreCLR](http://mattwarren.org/2017/03/23/Hitchhikers-Guide-to-the-CoreCLR-Source-Code/) |
 
 量化交易：
 
 A | B
 :---|:---
 [quantstart](https://www.quantstart.com/) | [TA-Lib](https://github.com/CharlesZHENG/TALibraryInCSharp/)
-[strategies](https://github.com/fmzquant/strategies)|
+[strategies](https://github.com/fmzquant/strategies)|[StockSharp](https://github.com/StockSharp/StockSharp)
 
 区块链：
 
 A | B
 :---|:---
-[bitshares](https://github.com/bitshares) | 
+[NBitcoin](https://github.com/MetacoSA/NBitcoin)|[StratisBitcoinFullNode](https://github.com/stratisproject/StratisBitcoinFullNode)|
+[Ethereum.NET](https://github.com/sense2k/Ethereum.NET)|[cs-ethereum](https://github.com/etherchain/cs-ethereum)
+[bitshares](https://github.com/bitshares) |[ethereum](https://github.com/ethereum)
+[Awesome Blockchain-ETH为主](https://github.com/CharlesZHENG/awesome-blockchain)|[ProgrammingBlockchain](https://github.com/CharlesZHENG/ProgrammingBlockchain)
+[比特币白皮书](https://github.com/CharlesZHENG/bitcoinwhitepaper)|[区块链资源汇总](https://github.com/CharlesZHENG/awesome-blockchain-1)
+[BlockchainSharp](https://github.com/ajlopez/BlockchainSharp)|[bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs)
+[BlockchainSharp](https://github.com/ajlopez/BlockchainSharp)|[ExchangeSharp](https://github.com/jjxtra/ExchangeSharp)
+[GoEx](https://github.com/nntaoli-project/GoEx)|[BitSharp](https://github.com/CharlesZHENG/BitSharp)|
+[highstock-图表](https://github.com/lisa3907/dotnet.highstock)|[EthSharpVm](https://github.com/ajlopez/EthSharpVm)
+
+设计模式：
+
+[patterns & practices](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff921345(v=pandp.10))
 
 ----
 
@@ -129,6 +141,6 @@ A | B
 
 A | B
 :---|:---
+[orleans-samples](https://github.com/OrleansContrib/orleans-samples)|[ProtoActorSample](https://github.com/axzxs2001/ProtoActorSample)
 [Orleans Design Patterns](https://github.com/OrleansContrib/DesignPatterns) | [Orleankka](http://orleanscontrib.github.io/Orleankka/)
 [Orleans.Consensus Raft](https://github.com/OrleansContrib/Orleans.Consensus) |[OrleansFabricSilo](https://github.com/OrleansContrib/OrleansFabricSilo)
-[orleans-samples](https://github.com/OrleansContrib/orleans-samples)|

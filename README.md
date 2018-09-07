@@ -5,7 +5,7 @@ Microsoft 文档：
 A | B
 :---|:---
 [.Net资源下载](https://www.microsoft.com/net/) | [ASP.NET Core 文档](https://docs.microsoft.com/zh-cn/aspnet/core/index?view=aspnetcore-2.1)
-[.Net 开发指南](https://docs.microsoft.com/en-us/dotnet/welcome) | 
+[.Net 开发指南](https://docs.microsoft.com/en-us/dotnet/welcome) | [微软doc](https://docs.microsoft.com/zh-cn/)
 
 ----
 社区文档:
@@ -57,6 +57,7 @@ A | B
 [infoq公众号](http://weixin.sogou.com/weixin?type=1&s_from=input&query=infoqchina&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=2313&sst0=1535728313043&lkt=1%2C1535728312010%2C1535728312010)|[大内老A-蒋金楠](http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E5%A4%A7%E5%86%85%E8%80%81A&ie=utf8&_sug_=n&_sug_type_=)
 [MSDN](https://msdn.microsoft.com/zh-cn/magazine/ee310108.aspx)|[桂素伟](https://www.cnblogs.com/axzxs2001/)
 [Hunter-Orleans](https://www.cnblogs.com/zd1994/category/1135637.html)
+
 ----
 视频、直播：
 

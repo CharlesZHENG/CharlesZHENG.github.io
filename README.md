@@ -92,6 +92,7 @@ A | B
 [BlockchainSharp](https://github.com/ajlopez/BlockchainSharp)|[ExchangeSharp](https://github.com/jjxtra/ExchangeSharp)
 [GoEx](https://github.com/nntaoli-project/GoEx)|[BitSharp](https://github.com/CharlesZHENG/BitSharp)|
 [highstock-图表](https://github.com/lisa3907/dotnet.highstock)|[EthSharpVm](https://github.com/ajlopez/EthSharpVm)
+[bitshares官方文档](http://docs.bitshares.org/index.html)|[BTS中文文档](https://github.com/abitmore/bts-cn-docs)
 
 设计模式：
 

@@ -17,7 +17,8 @@ A | B
 [ASP.NET Core 社区翻译](https://github.com/aspnet/Docs.zh-cn) | [ASP.NET Core 简明教程](https://windsting.github.io/little-aspnetcore-book/book/chapters/your-first-application/)
 [identityserver4中文文档](http://identityserver4-zh-cn.readthedocs.io/zh_CN/release/) |[计算机网络文档](https://hit-alibaba.github.io/interview/basic/network/HTTP.html)
 [CLR相关文档](https://github.com/dotnet/coreclr/tree/master/Documentation)|[Runtime之书](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
-[Markdown](https://github.com/CharlesZHENG/Markdown)|
+[Markdown](https://github.com/CharlesZHENG/Markdown)|[ubuntu中文网](http://wiki.ubuntu.org.cn/)
+[PostgreSQL中文社区](http://www.postgres.cn/home)|
 
 ----
 工具：
@@ -52,13 +53,13 @@ A | B
 [knight94](https://me.csdn.net/knight94)|[patterns & practices](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff921345(v%3dpandp.10))
 [Matthew Cochran](https://www.c-sharpcorner.com/members/matthew-cochran/articles)|[沈剑](http://zhuanlan.51cto.com/columnlist/shenj/)
 [美团](https://tech.meituan.com/archives)|[geeksforgeeks](https://www.geeksforgeeks.org/)
-[PostgreSQL中文社区](http://www.postgres.cn/home)|[elvanydev](http://elvanydev.com/index.html)
+[Hunter-Orleans](https://www.cnblogs.com/zd1994/category/1135637.html)|[elvanydev](http://elvanydev.com/index.html)
 [feedspot](https://blog.feedspot.com)|[mattwarren](http://mattwarren.org/)
 [csharpstar](https://www.csharpstar.com/)|[Christian Nagel](https://csharp.christiannagel.com/)
 [Bill Blogs](http://thebillwagner.com/Blog)|[dotNET跨平台-张善友](http://weixin.sogou.com/weixin?type=1&s_from=input&query=opendotnet+&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=3144&sst0=1535728079618&lkt=1%2C1535728077322%2C1535728077322)
 [infoq公众号](http://weixin.sogou.com/weixin?type=1&s_from=input&query=infoqchina&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=2313&sst0=1535728313043&lkt=1%2C1535728312010%2C1535728312010)|[大内老A-蒋金楠](http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E5%A4%A7%E5%86%85%E8%80%81A&ie=utf8&_sug_=n&_sug_type_=)
 [MSDN](https://msdn.microsoft.com/zh-cn/magazine/ee310108.aspx)|[桂素伟](https://www.cnblogs.com/axzxs2001/)
-[Hunter-Orleans](https://www.cnblogs.com/zd1994/category/1135637.html)|
+
 
 ----
 视频、直播：

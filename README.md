@@ -6,6 +6,7 @@ A | B
 :---|:---
 [.Net资源下载](https://www.microsoft.com/net/) | [ASP.NET Core 文档](https://docs.microsoft.com/zh-cn/aspnet/core/index?view=aspnetcore-2.1)
 [.Net 开发指南](https://docs.microsoft.com/en-us/dotnet/welcome) | [微软doc](https://docs.microsoft.com/zh-cn/)
+[ubuntu开发Asp.Net Core](https://www.microsoft.com/net/learn/get-started-with-dotnet-tutorial#ubuntu)|
 
 ----
 社区文档:
@@ -25,7 +26,8 @@ A | B
 :---|:---
 [dotnet聊天室](https://gitter.im/dotnet/community)| [工具集、博客](http://www.ikende.com/)
 [Nuget包(可能会有pre版)](https://dotnet.myget.org/gallery) | [Azure功能](https://www.azure.cn/en-us/support/service-dashboard/)
-[ServiceFabric.Mocks](https://github.com/loekd/ServiceFabric.Mocks)|
+[ServiceFabric.Mocks](https://github.com/loekd/ServiceFabric.Mocks)|[前端静态页](http://www.uemo.net/)
+[Linux VS Code 安装](https://code.visualstudio.com/docs/setup/linux)|
 
 ----
 源码：
@@ -93,7 +95,7 @@ A | B
 [GoEx](https://github.com/nntaoli-project/GoEx)|[BitSharp](https://github.com/CharlesZHENG/BitSharp)|
 [highstock-图表](https://github.com/lisa3907/dotnet.highstock)|[EthSharpVm](https://github.com/ajlopez/EthSharpVm)
 [bitshares官方文档](http://docs.bitshares.org/index.html)|[BTS中文文档](https://github.com/abitmore/bts-cn-docs)
-
+[BTS论坛-比特帝国](http://jc.btsabc.org/)|
 设计模式：
 
 [patterns & practices](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff921345(v=pandp.10))

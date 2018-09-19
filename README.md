@@ -97,6 +97,7 @@ A | B
 [highstock-图表](https://github.com/lisa3907/dotnet.highstock)|[EthSharpVm](https://github.com/ajlopez/EthSharpVm)
 [bitshares官方文档](http://docs.bitshares.org/index.html)|[BTS中文文档](https://github.com/abitmore/bts-cn-docs)
 [BTS论坛-比特帝国](http://jc.btsabc.org/)|
+
 设计模式：
 
 [patterns & practices](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff921345(v=pandp.10))

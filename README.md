@@ -97,6 +97,12 @@ A | B
 [highstock-图表](https://github.com/lisa3907/dotnet.highstock)|[EthSharpVm](https://github.com/ajlopez/EthSharpVm)
 [bitshares官方文档](http://docs.bitshares.org/index.html)|[BTS中文文档](https://github.com/abitmore/bts-cn-docs)
 [BTS论坛-比特帝国](http://jc.btsabc.org/)|
+[eos开发官网](https://developers.eos.io/)|[eos-Github](https://github.com/EOSIO)
+[eos浏览器](https://eosmonitor.io/)|
+[hubwiz-博客](http://blog.hubwiz.com/)|[cenkai88](https://www.jianshu.com/u/9da7cab18367)
+[eos中文文档](https://eos.readthedocs.io/zh_CN/latest/)|[eos-csharp](https://github.com/GetScatter/eos-sharp)
+[区块链社区](https://www.bcskill.com/)|[麒麟测试网](https://www.cryptokylin.io/)
+[EOSDotNet](https://github.com/eosnewyork/EOSDotNet)|
 
 设计模式：
 

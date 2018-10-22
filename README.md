@@ -28,7 +28,7 @@ A | B
 [dotnet聊天室](https://gitter.im/dotnet/community)| [工具集、博客](http://www.ikende.com/)
 [Nuget包(可能会有pre版)](https://dotnet.myget.org/gallery) | [Azure功能](https://www.azure.cn/en-us/support/service-dashboard/)
 [ServiceFabric.Mocks](https://github.com/loekd/ServiceFabric.Mocks)|[前端静态页](http://www.uemo.net/)
-[Linux VS Code 安装](https://code.visualstudio.com/docs/setup/linux)|
+[Linux VS Code 安装](https://code.visualstudio.com/docs/setup/linux)|[MobaXterm](https://mobaxterm.mobatek.net/)
 
 ----
 源码：
@@ -59,7 +59,6 @@ A | B
 [Bill Blogs](http://thebillwagner.com/Blog)|[dotNET跨平台-张善友](http://weixin.sogou.com/weixin?type=1&s_from=input&query=opendotnet+&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=3144&sst0=1535728079618&lkt=1%2C1535728077322%2C1535728077322)
 [infoq公众号](http://weixin.sogou.com/weixin?type=1&s_from=input&query=infoqchina&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=2313&sst0=1535728313043&lkt=1%2C1535728312010%2C1535728312010)|[大内老A-蒋金楠](http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E5%A4%A7%E5%86%85%E8%80%81A&ie=utf8&_sug_=n&_sug_type_=)
 [MSDN](https://msdn.microsoft.com/zh-cn/magazine/ee310108.aspx)|[桂素伟](https://www.cnblogs.com/axzxs2001/)
-[jimmysong-K8S&云原生](https://jimmysong.io/)|
 
 
 ----
@@ -68,6 +67,7 @@ A | B
 A | B
 :---|:---
 [csharpfritz](https://www.twitch.tv/csharpfritz)|[RabbitMQ](http://www.bilibili.com/video/av18997807) 
+[牧马人](https://mmr.ke.qq.com/#tab=1&category=15166960996709502&tuin=5740604a)|
 
 ----
 主题：
@@ -104,6 +104,14 @@ A | B
 [eos中文文档](https://eos.readthedocs.io/zh_CN/latest/)|[eos-csharp](https://github.com/GetScatter/eos-sharp)
 [区块链社区](https://www.bcskill.com/)|[麒麟测试网](https://www.cryptokylin.io/)
 [EOSDotNet](https://github.com/eosnewyork/EOSDotNet)|
+
+K8s&微服务
+A | B
+:---|:---
+[jimmysong-K8S&云原生](https://jimmysong.io/)|[Go语言](https://studygolang.com/subject/2)
+[servicemesher](http://www.servicemesher.com/)|[dockone](http://dockone.io/)
+[Go语言入门](http://www.ituring.com.cn/book/1205)|
+
 
 设计模式：
 

@@ -18,7 +18,8 @@ A | B
 [identityserver4中文文档](http://identityserver4-zh-cn.readthedocs.io/zh_CN/release/) |[计算机网络文档](https://hit-alibaba.github.io/interview/basic/network/HTTP.html)
 [CLR相关文档](https://github.com/dotnet/coreclr/tree/master/Documentation)|[Runtime之书](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
 [Markdown](https://github.com/CharlesZHENG/Markdown)|[ubuntu中文网](http://wiki.ubuntu.org.cn/)
-[PostgreSQL中文社区](http://www.postgres.cn/home)|
+[PostgreSQL中文社区](http://www.postgres.cn/home)|[pgsql博客-小桥河西](https://chenhuajun.github.io/)
+[pgsql博客-Digoal.zhou](https://github.com/digoal/blog)|
 
 ----
 工具：
@@ -105,7 +106,8 @@ A | B
 [区块链社区](https://www.bcskill.com/)|[麒麟测试网](https://www.cryptokylin.io/)
 [EOSDotNet](https://github.com/eosnewyork/EOSDotNet)|
 
-K8s&微服务
+K8s&微服务：
+
 A | B
 :---|:---
 [jimmysong-K8S&云原生](https://jimmysong.io/)|[Go语言](https://studygolang.com/subject/2)

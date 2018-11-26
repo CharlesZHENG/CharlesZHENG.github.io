@@ -113,7 +113,7 @@ A | B
 :---|:---
 [jimmysong-K8S&云原生](https://jimmysong.io/)|[Go语言](https://studygolang.com/subject/2)
 [servicemesher](http://www.servicemesher.com/)|[dockone](http://dockone.io/)
-[Go语言入门](http://www.ituring.com.cn/book/1205)|
+[Go语言入门](http://www.ituring.com.cn/book/1205)|[k8s中文文档](https://www.kubernetes.org.cn/docs)
 
 
 设计模式：

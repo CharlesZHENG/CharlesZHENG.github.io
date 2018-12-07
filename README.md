@@ -19,7 +19,7 @@ A | B
 [CLR相关文档](https://github.com/dotnet/coreclr/tree/master/Documentation)|[Runtime之书](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
 [Markdown](https://github.com/CharlesZHENG/Markdown)|[ubuntu中文网](http://wiki.ubuntu.org.cn/)
 [PostgreSQL中文社区](http://www.postgres.cn/home)|[pgsql博客-小桥河西](https://chenhuajun.github.io/)
-[pgsql博客-Digoal.zhou](https://github.com/digoal/blog)|
+[pgsql博客-Digoal.zhou](https://github.com/digoal/blog)|[开源世界旅行手册](http://www.ha97.com/book/OpenSource_Guide/index.html)
 
 ----
 工具：
@@ -30,7 +30,7 @@ A | B
 [Nuget包(可能会有pre版)](https://dotnet.myget.org/gallery) | [Azure功能](https://www.azure.cn/en-us/support/service-dashboard/)
 [ServiceFabric.Mocks](https://github.com/loekd/ServiceFabric.Mocks)|[前端静态页](http://www.uemo.net/)
 [Linux VS Code 安装](https://code.visualstudio.com/docs/setup/linux)|[MobaXterm](https://mobaxterm.mobatek.net/)
-[站酷海洛-图片资源](https://www.hellorf.com/)|
+[站酷海洛-图片资源](https://www.hellorf.com/)|[chocolatey](https://package.chocolatey.org/)
 
 ----
 源码：
@@ -116,6 +116,8 @@ A | B
 [jimmysong-K8S&云原生](https://jimmysong.io/)|[Go语言](https://studygolang.com/subject/2)
 [servicemesher](http://www.servicemesher.com/)|[dockone](http://dockone.io/)
 [Go语言入门](http://www.ituring.com.cn/book/1205)|[k8s中文文档](https://www.kubernetes.org.cn/docs)
+[Bosh](https://bosh.io/docs/)|[chocolatey-kubernetes-cli](https://package.chocolatey.org/packages/kubernetes-cli)
+[SF镜像](https://hub.docker.com/r/microsoft/service-fabric-onebox/)|[本地SF-Linux集群](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-local-linux-cluster-windows)
 
 
 设计模式：

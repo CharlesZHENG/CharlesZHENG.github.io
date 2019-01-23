@@ -64,6 +64,7 @@ A | B
 [MSDN](https://msdn.microsoft.com/zh-cn/magazine/ee310108.aspx)|[桂素伟](https://www.cnblogs.com/axzxs2001/)
 [李志强](https://www.cnblogs.com/stulzq/)|[jesse](http://www.jessetalk.cn/)
 [并发编程作者](https://blog.stephencleary.com/)|[Devops](https://docs.devopshub.cn)
+[彭爱华](http://blog.51cto.com/markwin)|[徐磊](https://www.cnblogs.com/ups216/)
 
 
 ----

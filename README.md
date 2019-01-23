@@ -73,6 +73,7 @@ A | B
 :---|:---
 [csharpfritz](https://www.twitch.tv/csharpfritz)|[RabbitMQ](http://www.bilibili.com/video/av18997807) 
 [牧马人](https://mmr.ke.qq.com/#tab=1&category=15166960996709502&tuin=5740604a)|[devopslive](https://devopslive.bopoda.cn/)
+[微软活动](https://www.microsoft.com/china/events/Default.aspx)|[DevOps视频](https://devopslive.bopoda.cn/)
 
 ----
 主题：

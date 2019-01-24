@@ -81,8 +81,8 @@ A | B
 
 A | B
 :---|:---
-[.NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/)|[CoreCLR](http://mattwarren.org/2017/03/23/Hitchhikers-Guide-to-the-CoreCLR-Source-Code/) |
-[leetcode-算法](https://leetcode-cn.com/)
+[.NET Internals](http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/)|[CoreCLR](http://mattwarren.org/2017/03/23/Hitchhikers-Guide-to-the-CoreCLR-Source-Code/) 
+[leetcode-算法](https://leetcode-cn.com/)|
 
 量化交易：
 

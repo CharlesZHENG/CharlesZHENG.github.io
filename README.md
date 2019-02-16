@@ -7,7 +7,7 @@ A | B
 [.Net资源下载](https://www.microsoft.com/net/) | [ASP.NET Core 文档](https://docs.microsoft.com/zh-cn/aspnet/core/index?view=aspnetcore-2.1)
 [.Net 开发指南](https://docs.microsoft.com/en-us/dotnet/welcome) | [微软doc](https://docs.microsoft.com/zh-cn/)
 [ubuntu开发Asp.Net Core](https://www.microsoft.com/net/learn/get-started-with-dotnet-tutorial#ubuntu)|[源码Online](https://referencesource.microsoft.com/)
-
+[MSDN杂志](https://msdn.microsoft.com/zh-cn/magazine/ee310108.aspx)
 ----
 社区文档:
 
